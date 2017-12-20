@@ -3,4 +3,7 @@ A system to differentiate fake and genuine reviews on the basis of sentimental a
 
 ### Approaches Explored
 
-- Baseline
+- Baseline with using naive bayes approach : ~ 48 % [baseline-link][1]
+
+
+[1]: https://github.com/Hasil-Sharma/fake-review-detector/blob/ee40b6df3fc0cbe9ff2b6be7b019cee9ba3f0b9f/Spam%20Opinion%20Mining.ipynb
