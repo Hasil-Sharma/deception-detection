@@ -3,8 +3,10 @@ A system to differentiate fake and genuine reviews on the basis of sentimental a
 
 ### Approaches Explored
 
-- Baseline with using naive bayes approach and all the words as features: ~ 48 % [baseline-link][1]
-- Baseline with using navie bayes approach and tf-idf over words as features: ~ 50 % [tf-idf-link][2]
+- Using naive bayes approach and all the words as features: ~ 48 % [link][1]
+- Using navie bayes approach and tf-idf over words as features: ~ 50 % [link][2]
+- Using support vector machines and tf-idf over words as features: ~51 % [link][3]
 
 [1]: https://github.com/Hasil-Sharma/deception-detection/blob/36cdb94f326128ade1c3ada40d1fbd7d2b681d6a/Spam%20Opinion%20Mining.ipynb
 [2]: https://github.com/Hasil-Sharma/deception-detection/blob/2f4e052afadcd16d7d2dc7f9479aaf3bbb06aa5a/Spam%20Opinion%20Mining.ipynb
+[3]: https://github.com/Hasil-Sharma/deception-detection/blob/f9309db5ba18580ec33c766735ecf4f2002d3ffd/Spam%20Opinion%20Mining.ipynb
